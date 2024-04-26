@@ -1,19 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://th.bing.com/th/id/OIP.tdnp0CZztfggg3gKXf854AHaEc?w=268&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Constante atualizacao" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Olá me chamo Edivaldo sou entusiasta de tecnologia sou aluno da Unopar, atualmente estou cursando analise e desenvolvimento de sistemas.<br>
-  Durante meus estudos tenho feito diversos projetos, desde calculadora imc em <strong>Python</strong>, até um sistema ficticio de banco em <strong>Java</strong>, fiz tbm outros projetos como <strong>Diagramas</strong> de um sistema de locadora de carros, <strong>Diagrama de classes</strong> e outros projetos que irei postar.<br>
-  Minha busca pelo aprendizado sempre é continuo, tenho a mente bem aberta e sempre atento para aprender coisas novas<br>
-  Meu projeto para o futuro é aplicar os conhecimentos adquiridos em um ambiente de trabalho profissiona e contribuir para projetos significativos.<br>
-  Estou a procura de uma oportunidade de Trabalho e ou Estágio. 
-</p>
-
-<p align="left">
-  :computer: Linguagens: Python , Java em breve estarei aprendendo ++ .
-</p>
-
-<p align="left">
-  :white_check_mark: Ferramentas: Vs Code, PyCharm, Apache Netbeans
+<p align="left"> <h3>A pagina esta em constanste atualização</h3>
 </p>
 
 <p align="left">
