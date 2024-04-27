@@ -1,23 +1,23 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.ibb.co/Pth7F9W/OIP-1.jpg" alt="trabalhando" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá me chamo Edivaldo sou entusiasta de tecnologia sou aluno da Unopar, atualmente estou cursando analise e desenvolvimento de sistemas.<br>
   Durante meus estudos tenho feito diversos projetos, desde calculadora imc em <strong>Python</strong>, até um sistema ficticio de banco em <strong>Java</strong>, fiz tbm outros projetos como <strong>Diagramas</strong> de um sistema de locadora de carros, <strong>Diagrama de classes</strong> e outros projetos que irei postar.<br>
-  Minha busca pelo aprendizado sempre é continuo, tenho a mente bem aberta e sempre atento para aprender coisas novas<br>
-  Meu projeto para o futuro é aplicar os conhecimentos adquiridos em um ambiente de trabalho profissional,contribuir para projetos significativos<br>
+  Minha busca pelo aprendizado sempre é continuo, tenho a mente bem aberta estou sempre atento para aprender coisas novas<br>
+  Meu projeto para o futuro é aplicar os conhecimentos adquiridos em um ambiente de trabalho profissional e contribuir para projetos significativos<br>
   Estou a procura de uma oportunidade de Trabalho e ou Estágio. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python , Java em breve estarei aprendendo ++ .
+  🧑🏻‍💻 Linguagens: Python , Java em breve estarei aprendendo ++ .
 </p>
 
 <p align="left">
-  💼 Ferramentas: Vs Code, PyCharm, Apache Netbeans
+  ⚒️ Ferramentas: Vs Code, PyCharm, Apache Netbeans
 </p>
 
 <p align="left">
-  💌 Gostaria de compartilhar meu contato e redes sociais para contato: ⤵️
+  🔥 Gostaria de compartilhar meu contato e redes sociais para contato: ⤵️
 </p>
 
 <p align="left">
