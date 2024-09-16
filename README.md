@@ -17,16 +17,16 @@
 </p>
 
 <p align="left">
-  🔥 Gostaria de compartilhar meu contato e redes sociais para contato: ⤵️
+  🔥 Gostaria de compartilhar meu contato e redes sociais: ⤵️
 </p>
 
 <p align="left">
   <a href="mailto:edivaldo85b@gmail.com" title="Edivaldo85b@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" alt="Gmail"/></a>
-  <a href="#" title="Em Construção">
+  <a href="https://www.linkedin.com/in/edivaldo-bomfim-5226a7320/" title="edivaldo-bomfim-5226a7320/">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://th.bing.com/th/id/OIP.itsVAIGpL9a_DzkqejFU-gHaDT?w=341&h=156&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="LinkedIn"/></a>
   <a href="http://wa.me/5542999130988" title="42-999130988">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=wa.me/5542999130988" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/edivaldobomfim85/" title="@Edivaldo85b">
+  <a href="https://www.instagram.com/edivaldo85b/" title="@Edivaldo85b">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=@Edivaldo85b" alt="Instagram"/></a>
 </p>
